@@ -1,7 +1,7 @@
 {
-  "name": "pong-service",
+  "name": "ping-service",
   "version": "1.0.0",
-  "description": "Pong service for API Gateway demonstration",
+  "description": "Ping service for API Gateway demonstration",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
