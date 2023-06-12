@@ -1,0 +1,14 @@
+{
+  "name": "pong-service",
+  "version": "1.0.0",
+  "description": "Pong service for API Gateway demonstration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1",
+    "aws-sdk": "^2.883.0"
+  }
+}
